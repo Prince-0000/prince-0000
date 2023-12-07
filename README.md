@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">I have keen in full stack development</h3>
 
@@ -16,7 +17,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GrNYHmOCBL-6n_08DEm5wURMj7UjvJE2/view?usp=sharing](https://drive.google.com/file/d/1GrNYHmOCBL-6n_08DEm5wURMj7UjvJE2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 <p align="left">
 <a href="https://linkedin.com/in/prince0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince0000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prince_0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prince_0001" height="30" width="40" /></a>
