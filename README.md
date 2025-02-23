@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-0000&label=Profile%20views&color=0e75b6&style=flat" alt="prince-0000" /> </p>
 
-- 🔭 I’m currently working on **AI-voice-assistant**
+- 🔭 I’m currently working on **AgriMarket Exchange Platform**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-z1vg-prince-0000.vercel.app/](https://portfolio-z1vg-prince-0000.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://prince-three.vercel.app/](https://prince-three.vercel.app/)
 
-- 💬 Ask me about **React, FastAPI, Node.js, Java**
+- 💬 Ask me about **Next.js, FastAPI, Node.js, PostgreSQL**
 
 - 📫 How to reach me **princemehta516@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GrNYHmOCBL-6n_08DEm5wURMj7UjvJE2/view?usp=sharing](https://drive.google.com/file/d/1GrNYHmOCBL-6n_08DEm5wURMj7UjvJE2/view?usp=sharing)
+- 📄 Resume - [https://drive.google.com/file/d/18JhtDfZ9zPsZG0omVnoj8Vr5cqw8e52n/view?usp=sharing](https://drive.google.com/file/d/18JhtDfZ9zPsZG0omVnoj8Vr5cqw8e52n/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
